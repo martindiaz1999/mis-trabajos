@@ -1,0 +1,80 @@
+.enca {
+    font-size: 170px;
+    font-style: arial;
+    text-align: center;
+    background-color: yellow;
+
+}
+
+.title {background-color:yellow;
+    text-decoration: underline;
+
+}
+.titulo {font-family: Verdana, Geneva, Tahoma, sans-serif ;
+font-size: 100px;
+color: #35c419;
+font-weight: 500;
+text-align: center;
+vertical-align: bottom;
+
+}
+.maxi{background-color: violet;}
+
+.contenedor{
+    width: 50%;
+    height: 200px;
+    background-color: springgreen;
+    
+
+
+}
+
+.circulo{
+    width: 30%;
+    height: 100px;
+    background-color: tomato;
+}
+
+.especial{
+    font-style: inherit;
+    text-align: center;
+}
+
+.trial {
+    width: 30%;
+    background-color: rgb(104, 45, 160);
+}
+.trial3 {
+width: 30%;
+background-color: sandybrown;
+}
+.subr1 {
+    text-decoration: underline;
+}
+
+.subr2{
+    text-decoration: underline;
+}
+.subr3 {
+    text-decoration: underline;
+}
+
+.pie {
+    text-align: center;
+    text-decoration: crimson;
+    height: 300px;
+    font-style: verdana;
+    background-color: rgb(20, 123, 220);
+
+}
+
+.unlam {
+    background-color: deeppink;
+    
+    vertical-align: baseline;
+}
+
+.imagen1 {
+    width: 60%;
+    align-items: center;
+}

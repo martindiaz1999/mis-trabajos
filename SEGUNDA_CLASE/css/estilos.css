@@ -1,0 +1,19 @@
+.maxi {
+    background-color: darkseagreen;
+    width: 50%;
+    height: 200px;
+}
+.river{
+    width: 70%;
+    height: 230px;
+    margin: auto;
+}
+
+.met{
+    width: 100%;
+    background-color: deeppink;
+}
+
+.win{
+    width: 50%;
+}
